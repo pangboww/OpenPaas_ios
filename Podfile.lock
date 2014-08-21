@@ -1,0 +1,29 @@
+PODS:
+  - MNTPullToReact (1.0.2)
+  - NSDate+TimeAgo (1.0.3)
+  - PHFComposeBarView (2.0.1):
+    - PHFDelegateChain (~> 1.0)
+  - PHFDelegateChain (1.0.1)
+  - PureLayout (1.0.1)
+  - SBJson (4.0.1)
+  - YIPopupTextView (1.1.0)
+
+DEPENDENCIES:
+  - MNTPullToReact (~> 1.0)
+  - MNTPullToReact (~> 1.0.2)
+  - NSDate+TimeAgo
+  - PHFComposeBarView (~> 2.0.1)
+  - PureLayout
+  - SBJson (~> 4.0.0)
+  - YIPopupTextView
+
+SPEC CHECKSUMS:
+  MNTPullToReact: 67695411f05011be1987a44330d4d52894872f88
+  NSDate+TimeAgo: f3533e0198fab05b716368b19f8c2185d53d6f3b
+  PHFComposeBarView: 0fa52137ecb23725d219dc90cf77c4c95aa29d05
+  PHFDelegateChain: f4d5a2847960b3dd16fc2f2196833f3a66704745
+  PureLayout: 972964b21dbcbc5cc36785aed16aba03176f057d
+  SBJson: d71212c078abf4679d54b0d0565260c474e46235
+  YIPopupTextView: 38ae0b8c75c671569e3175c29f8be73ebf91f318
+
+COCOAPODS: 0.33.1
